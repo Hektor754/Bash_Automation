@@ -4,24 +4,13 @@ This repository is a collection of projects and exercises focused on automating 
 
 ## 🔐 OpenSSL Encryption Projects
 
-The initial set of projects in this repository centers around using `OpenSSL` with Bash to perform encryption and decryption tasks. These exercises serve as both educational material and practical scripts for secure data handling.
+The initial set of projects in this repository centers around using `OpenSSL` with Bash to perform encryption and decryption tasks. These exercises serve as both educational material and practical scripts for secure data handling. The final idea though of the repository is to be filled with as many projects for automation using Bash as possible
 
 ### Examples include:
 
 - File encryption and decryption using AES.
 - Automating the generation of private/public key pairs.
 - Secure transmission and storage of sensitive data.
-
-## 📂 Structure
-
-```
-.
-├── openssl_encryption/
-│   ├── encrypt.sh
-│   ├── decrypt.sh
-│   └── keygen.sh
-└── README.md
-```
 
 ## 🚀 Future Projects
 
@@ -35,7 +24,6 @@ This repository will expand to include automation tasks such as:
 ## 🛠️ Requirements
 
 - Bash (version 4 or higher recommended)
-- OpenSSL
 - Standard Unix tools (`grep`, `awk`, `sed`, etc.)
 
 ## 📜 License
