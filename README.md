@@ -34,6 +34,11 @@ This repository is open source and available under the [MIT License](LICENSE).
 
 Contributions are welcome! If you have a useful script or want to improve existing ones, feel free to submit a pull request.
 
+## Disclaimer
+
+# WARNING: This RSA key is for demonstration purposes only.
+# DO NOT use this key in production or for any secure application.
+
 ---
 
 Happy scripting! 🐚
