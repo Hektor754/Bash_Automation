@@ -36,8 +36,8 @@ Contributions are welcome! If you have a useful script or want to improve existi
 
 ## Disclaimer
 
-# WARNING: This RSA key is for demonstration purposes only.
-# DO NOT use this key in production or for any secure application.
+WARNING: Any key generated is for demonstration purposes only.
+DO NOT use these keys in production or for any secure application.
 
 ---
 
